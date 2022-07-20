@@ -1,0 +1,10 @@
+class Main
+{
+public static void main(String args[])
+{
+int i<50,j;
+while(i=j/50)
+i++;
+{
+System.out.println("theek aa"+i);
+}}}
